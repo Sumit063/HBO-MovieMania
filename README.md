@@ -38,7 +38,7 @@ Check out a live demo and try it for yourself: [demo](https://cinemy.vercel.app/
  ##
  MIT License
 
-Copyright (c) 2022 James Waweru
+Inspiration- James Wareru
 
 
 <!-- <div> 
