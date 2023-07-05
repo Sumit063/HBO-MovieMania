@@ -10,8 +10,8 @@ const LastFooter = () => {
       <div className="write__footer">
         <div className="container2 ">
           <span>
-            © 2022 CinemyPlex. All Rights Reserved. Designed by{" "}
-            <a href="https://jameswaweru.herokuapp.com/">James Waweru</a>.
+            © 2023 MoviesMania. All Rights Reserved. Designed by{" "}
+            <a href="https://sumitpandey.netlify.app/">Sumit Pandey</a>.
           </span>
           <h6 href="w" className="scroll-to-top">
             <span id="toTop">Back to top &#8593;</span>
